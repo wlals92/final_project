@@ -32,15 +32,10 @@
  ┃ ┗ 📜신용카드 고객 세그먼트 분류 AI 경진대회 데이터 명세.xlsx
  ┣ 📂notebooks            ← 개별 분석 및 모델링
  ┃ ┣ 📂김가영
- ┃ ┃ ┗ 📜test
  ┃ ┣ 📂김미주
- ┃ ┃ ┗ 📜test
  ┃ ┣ 📂신수경
- ┃ ┃ ┗ 📜test
  ┃ ┣ 📂이지민
- ┃ ┃ ┗ 📜test
  ┃ ┗ 📂정예린
- ┃ ┃ ┗ 📜test
  ┣ 📂reports             ← 분석 요약 및 발표자료
  ┣ 📂submission          ← 제출 파일 저장
  ┗ 📜README.md
